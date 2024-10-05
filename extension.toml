@@ -1,0 +1,7 @@
+id = "mono-theme"
+name = "Mono Theme"
+description = "Mostly monochrome theme for Zed"
+version = "0.0.1"
+schema_version = 1
+authors = ["Christopher Newton <hello@chrstphrknwtn.com>"]
+repository = "https://github.com/chrstphrknwtn/mono-zed"
